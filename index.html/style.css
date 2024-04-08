@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.picture{
+    background:url(./images/img1.jpg)no-repeat;
+
+    width: 100%;
+    background-size:100%;
+}
+.picture h1{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 50px;
+}
+.picture a
+{
+    border:3px solid;
+    width:25vh;
+    border-radius: 9px;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+ 
